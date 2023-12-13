@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A018_Egyszeru_adat_ki_es_bevitel", "A018_Egyszeru_adat_ki_es_bevitel\A018_Egyszeru_adat_ki_es_bevitel.csproj", "{BE3BD2DA-F47E-4B6D-8068-139828C4E764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE3BD2DA-F47E-4B6D-8068-139828C4E764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3BD2DA-F47E-4B6D-8068-139828C4E764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3BD2DA-F47E-4B6D-8068-139828C4E764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3BD2DA-F47E-4B6D-8068-139828C4E764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF3CD5A9-878B-4650-89DF-480ED527AE81}
+	EndGlobalSection
+EndGlobal
