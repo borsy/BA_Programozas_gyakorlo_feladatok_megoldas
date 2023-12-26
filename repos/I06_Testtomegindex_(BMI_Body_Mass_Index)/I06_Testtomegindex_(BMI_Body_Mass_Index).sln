@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I06_Testtomegindex_(BMI_Body_Mass_Index)", "I06_Testtomegindex_(BMI_Body_Mass_Index)\I06_Testtomegindex_(BMI_Body_Mass_Index).csproj", "{EC018156-2A29-4B3C-872A-BD7CAF92D5F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC018156-2A29-4B3C-872A-BD7CAF92D5F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC018156-2A29-4B3C-872A-BD7CAF92D5F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC018156-2A29-4B3C-872A-BD7CAF92D5F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC018156-2A29-4B3C-872A-BD7CAF92D5F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {361DE2FC-0EAA-4060-A784-C913685D4AE3}
+	EndGlobalSection
+EndGlobal

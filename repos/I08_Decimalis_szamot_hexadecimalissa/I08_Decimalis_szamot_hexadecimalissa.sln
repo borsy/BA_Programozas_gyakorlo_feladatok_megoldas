@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I08_Decimalis_szamot_hexadecimalissa", "I08_Decimalis_szamot_hexadecimalissa\I08_Decimalis_szamot_hexadecimalissa.csproj", "{B5ABA791-5B5D-4328-A117-C17D7DAD59BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5ABA791-5B5D-4328-A117-C17D7DAD59BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5ABA791-5B5D-4328-A117-C17D7DAD59BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5ABA791-5B5D-4328-A117-C17D7DAD59BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5ABA791-5B5D-4328-A117-C17D7DAD59BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9A29B6E-8D38-4A0D-B0C5-7D90A557F441}
+	EndGlobalSection
+EndGlobal

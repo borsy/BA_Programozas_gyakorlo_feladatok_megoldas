@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D035_Tombok", "D035_Tombok\D035_Tombok.csproj", "{F5FC36EF-9923-4899-96E5-C9AADEE839F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5FC36EF-9923-4899-96E5-C9AADEE839F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FC36EF-9923-4899-96E5-C9AADEE839F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FC36EF-9923-4899-96E5-C9AADEE839F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FC36EF-9923-4899-96E5-C9AADEE839F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7A9B41F-19B7-41BF-838A-09BF9C0CB060}
+	EndGlobalSection
+EndGlobal

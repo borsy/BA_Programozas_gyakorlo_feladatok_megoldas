@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G058_Datummal_es_idovel_kapcsolatos_feladatok", "G058_Datummal_es_idovel_kapcsolatos_feladatok\G058_Datummal_es_idovel_kapcsolatos_feladatok.csproj", "{79D0657C-8858-4BC6-A986-6A79BA0D58DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D0657C-8858-4BC6-A986-6A79BA0D58DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D0657C-8858-4BC6-A986-6A79BA0D58DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D0657C-8858-4BC6-A986-6A79BA0D58DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D0657C-8858-4BC6-A986-6A79BA0D58DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EFE7BF8-6EC0-46A5-8659-C8774854CEF7}
+	EndGlobalSection
+EndGlobal
